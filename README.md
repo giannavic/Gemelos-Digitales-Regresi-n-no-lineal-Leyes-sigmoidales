@@ -8,13 +8,12 @@ Gianna Victoria Adame
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L20212527@tectijuana.edu.mx
 
 ## Resumen de la práctica
-En esta práctica el sistema biológico utilizado es el cáncer colorrectal y la interacción que tiene con la inmunoterapia TCR-T, primeramente se implementarán soluciones de las ecuaciones de Lotka-Volterra para observar su dinámica en series de tiempo y plano de fase. Posteriormente se aplicaran los métodos de Euler y Heun para desarrollar un algoritmo computacional. Aimismo, se calcularán los puntos de equilibrio, la matriz Jacobiana y se analizará la estabilidad local del sistema, posteriormente por medio de funciones ode de matlab se solucionará el sistema en Simulink. Finalmente, por medio del uso de Graph Grabber se formulará el modelo mtemático.
+En esta práctica se implementa el algoritmo de regresión no lineal utilizando datos experimentales de la dinámica de una población celular cuando se toman dos muestras de la evolución en el tiempo, posteriormente se ajustaran los datos experimentales a las leyes de crecimiento sigmoidal con el fin de estimar la tasa de crecimiento en las distintas ecuaciones.
 
 ## Objetivos específicos
-1. Aplicar el método de Euler y el método de Heun para desarrollar el algoritmo computacional en Matlab y en Spyder del sistema.
-2. Calcular los puntos de equilibrio, la matriz Jacobiana y analizar la estabilidad local del sistema.
-3. Utilizar funciones ode de Matlab para solucionar el sistema en simulink.
-4.  Utilizar Graph Grabber y Eureqa para formular el modelo matemático.
+1. Aplicar el algoritmo de regresión no lineal en Matlab para ajustar los modelos sigmoidales.
+2. Desarrollar el algoritmo en Python para ajustar los modelos sigmoidales.
+3. Calcular el intervalo de confianza al 95% y el coeficiente de determinación.
 
 ## Docente
 Dr. Paul A. Valle
